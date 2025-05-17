@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "displayName": "UTW Template Data",
     "description": "Runtime data definitions used by UTW templates, including HullData, WeaponryData, and shared base classes.",
-    "unity": "2021.3",
+    "unity": "2022.3",
     "author": {
-      "name": "Franta",
-      "email": "franta@example.com"
+      "name": "Tomas",
+      "email": "t_pavlik@utb.cz"
     }
   }
   
