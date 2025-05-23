@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Other.Template.WeaponryTemplate.Data {
+namespace Other.Template {
     public class WeaponryData : DefaultData {
 
         public bool useBarrel = true;

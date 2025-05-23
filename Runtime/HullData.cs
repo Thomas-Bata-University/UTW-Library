@@ -1,10 +1,10 @@
-namespace Other.Template.HullTemplate.Data {
+namespace Other.Template {
     public class HullData : DefaultData {
 
         public bool showPreview = true;
         public float trackOffset = 1f;
-        
-        public HullSize hullSize = HullSize.SUPER_LIGHT;
+
+        public TankSize tankSize = TankSize.SUPER_LIGHT;
 
     }
 } //END

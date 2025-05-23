@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Other.Template.PlateTemplate.Data {
+namespace Other.Template {
     public class PlateData : MonoBehaviour {
 
         public int armorQuality = 2000;

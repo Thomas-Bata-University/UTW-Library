@@ -1,6 +1,4 @@
-using UnityEngine;
-
-namespace Other.Template.TurretTemplate.Data {
+namespace Other.Template {
     public class TurretData : DefaultData {
 
     }
