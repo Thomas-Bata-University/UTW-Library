@@ -1,6 +1,8 @@
+using System;
 using UnityEngine;
 
 namespace Other.Template {
+    [Serializable]
     public class PlateData : MonoBehaviour {
 
         public int armorQuality = 2000;

@@ -1,6 +1,8 @@
+using System;
 using UnityEngine;
 
 namespace Other.Template {
+    [Serializable]
     public class SuspensionData : DefaultData {
 
         public bool showPreview = true;

@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
 
 namespace Other.Template {
+    [Serializable]
     public enum TankSize {
 
         SUPER_LIGHT,
@@ -11,6 +13,7 @@ namespace Other.Template {
 
     }
 
+    [Serializable]
     public class TankSizeInfo {
 
         public TankSize Size { get; }

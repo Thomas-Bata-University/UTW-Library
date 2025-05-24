@@ -1,6 +1,8 @@
+using System;
 using UnityEngine;
 
 namespace Other.Template {
+    [Serializable]
     public class WeaponryData : DefaultData {
 
         public bool useBarrel = true;

@@ -1,9 +1,11 @@
+using System;
 using UnityEngine;
 
 namespace Other.Template {
+    [Serializable]
     public class DefaultData : MonoBehaviour {
-        
-        [SerializeField] public int Mass = 1000;
+
+        public int Mass = 1000;
         public Mesh Mesh;
         public int NumOfMat = 1;
         public Material[] Materials;
